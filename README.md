@@ -1,6 +1,6 @@
 
 <p>
-<img src="me.png" width:"100" height:"100"> </p>
+<img src="Wajahat Hussain_20240422_234938_0000.png" width:"100" height:"100"> </p>
 
 # Hi there ✨, This is me Wajahat Hussain.
 ## A passionate Programmer from Pakistan.
