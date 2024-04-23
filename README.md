@@ -1,89 +1,110 @@
-<!--
-<h2 align="center">
-  Welcome to the profile of Wajahat Hussain
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/wajahattt-dot"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=wajahattt-dot">
-  <img align="right" src="https://komarev.com/ghpvc/?username=wajahattt-dot&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-<!-- Intro  -->
-
-#  Hey There! ✨, I am Wajahat Hussain
- ## A programmer, developer, UI designer from Karachi, Pakistan
-              
-
-<p align="center">
- <a href="https://www.linkedin.com/in/wajahat-hussain-b5713a27b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wajahat"/>
- </a>
- <a href="https://twitter.com/Wajahattt_x" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=github&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- I am  a 15 year old student from Karachi, Pakistan learning Web Development, UI Design, Programming from Governor Sindh Information Technology Initiative.
- A computer department student, Graphic Designer, and Certified Digital Marketer
- I am a college student and will be soon approaching my 1st year exams, In Sha Allah
+<img src="me.png" width:"100" height:"100"> </p>
+
+# Hi there ✨, This is me Wajahat Hussain.
+## A passionate Programmer from Pakistan.
+<p align="left">I am a 15 year old student learning HTML, CSS, Javascript, Typescript, Modern Python through the Governor Sindh Information Technology Initiative. I am a certified digital marketer, UI designer and Front-end developer through Google Learning Digital Garage</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=wajahattt-dot &label=Profile%20views&color=0e75b6&style=flat" alt="Wajahat Hussain" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Wajahat's Languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/wajahattt-dot"> -->
 </p>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-## Languages Used:
+<br>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-<br/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-## Top Open Source -
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- I am currently a student of college from Karachi.
+- A student of Computer studies, currently enrolled in 1st year of college
+- A UI designer, Graphic Designer, Programmer, Developer
+- Currently enrolled in Metaverse, Web 3.0, and Artificial Intelligence Course by Governor Sindh
+- Approaching exams for 10th Grade and will ace them In Sha Allah
+- Find me on LinkedIn so we can be good programming friends
+- Thats all.
+- Find my projects in my repository folder
+- For queries, contact me on my LinkedIn: https://www.linkedin.com/in/wajahat-hussain-b5713a27b/
+<br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/wajahattt-dot?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wajahat-hussain-b5713a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wajahat" height="30" width="40" /></a>
 </p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/wajahattt-dot">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahattt-dot &theme=radical&border=7F3FBF&background=0D1117" alt="Wajahat's GitHub streak"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/wajahattt-dot">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wajahattt-dot &theme=radical" alt="Wajahat's GitHub Contribution"/>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/wajahattt-dot"><img alt="Wajahat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=wajahttt-dot&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/wajahattt-dot"><img alt="Wajahat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wajahattt-dot&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
 
 
-![Wajahat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=wajahattt-dot &Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahattt-dot\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wajahattt-dot&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<h3 align="left">Activity:</h3>
+
+![Wajahattt-dot's Graph](https://github-readme-activity-graph.vercel.app/graph?username=wajahattt-dot&custom_title=Wajahat's %20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a >Wajahat Hussain</a></p>
