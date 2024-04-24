@@ -8,7 +8,7 @@
 <p align="center"> 
   </p>
   <p>
-   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -104,8 +104,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Wajahattt-dot's Graph](https://github-readme-activity-graph.vercel.app/graph?username=wajahattt-dot&custom_title=Wajahat's %20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+[![Wajahat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wajahattt-dot)](https://github.com/wajahattt-dot/github-readme-activity-graph)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
