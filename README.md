@@ -7,7 +7,7 @@
 <p align="left">I am a 15 year old student learning HTML, CSS, Javascript, Typescript, Modern Python through the Governor Sindh Information Technology Initiative. I am a certified digital marketer, UI designer and Front-end developer through Google Learning Digital Garage</p>
 <p align="center"> 
   </p>
-  <br>
+  
   
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -33,7 +33,7 @@
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
 
 - I am currently a student of college from Karachi.
 - A student of Computer studies, currently enrolled in 1st year of college
