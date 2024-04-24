@@ -48,13 +48,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wajahat-hussain-b5713a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wajahat" height="30" width="40" /></a>
+  <a
+href= "https://www.linkedin.com/in/wajahat-hussain-b5713a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Wajahat" height="30" width="40" /></a>
 </p>
 
-<p>
- <h2>About Me:</h2>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
