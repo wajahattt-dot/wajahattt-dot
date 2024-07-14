@@ -43,11 +43,11 @@
 - Find me on LinkedIn so we can be good programming friends
 - Thats all.
 - Find my projects in my repository folder
-- For queries, contact me on my LinkedIn: https://www.linkedin.com/in/wajahat-hussain-b5713a27b/
+- For queries, contact me on my LinkedIn: https://www.linkedin.com/in/wajahattt-hussain
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wajahat-hussain-b5713a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wajahat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wajahattt-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wajahat" height="30" width="40" /></a>
   <a
 href= "https://twitter.com/Wajahattt_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Wajahat" height="30" width="40" /></a>
 </p>
