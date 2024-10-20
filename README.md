@@ -4,7 +4,8 @@
 
 # Hi there ✨, This is me Wajahat Hussain.
 ## A passionate Programmer from Pakistan.
-<p align="left">I am a 15 year old student learning HTML, CSS, Javascript, Typescript, Modern Python through the Governor Sindh Information Technology Initiative. I am a certified digital marketer, UI designer and Front-end developer through Google Learning Digital Garage</p>
+<p align="left">I am a student learning HTML, CSS, Javascript, Typescript, Modern Python through the Governor Sindh Information Technology Initiative (GIAIC) and Presidential Initiative For Artificial Intelligence And Computing (PIAIC) 
+I am a certified digital marketer, UI designer and Front-end developer through Google Learning Digital Garage</p>
 <p align="center"> 
   </p>
   
