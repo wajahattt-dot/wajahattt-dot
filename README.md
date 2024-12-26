@@ -50,7 +50,7 @@ href= "https://twitter.com/Wajahattt_X" target="blank"><img align="center" src="
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,express,nestjs,langchain" />
   </a>
 </p>
 
@@ -65,14 +65,14 @@ href= "https://twitter.com/Wajahattt_X" target="blank"><img align="center" src="
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,google" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,colab" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,colab,chatgpt,gemini, discord" />
   </a>
 </p>
 
