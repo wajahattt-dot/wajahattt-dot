@@ -20,7 +20,7 @@ I am a certified digital marketer, UI designer and Front-end developer through G
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -49,7 +49,7 @@ href= "https://twitter.com/Wajahattt_X" target="blank"><img align="center" src="
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,express,nestjs" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ href= "https://twitter.com/Wajahattt_X" target="blank"><img align="center" src="
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,googlecolab" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,colab" />
   </a>
 </p>
 
